@@ -1,0 +1,4 @@
+.container{background-color:blue;width:auto;height:auto}
+.field{background-color:red;width:10px;height:10px;border:1px solid white; float:left;}
+.inicio{clear:left}
+.active{background-color:black;}
