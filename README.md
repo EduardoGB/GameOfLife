@@ -1,5 +1,5 @@
-# GameOfLife
-Game of Life in PHP 
+# JUEGO DE LA VIDA
+Juego de la vida en php
 
 ##Reglas:
     1.-Celda rodeada por 3 celdas vivas, revive o se mantiene.
